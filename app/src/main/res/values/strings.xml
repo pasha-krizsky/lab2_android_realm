@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="add_contact_button">Add contact</string>
+    <string name="show_contacts_button">Show contacts</string>
+    <string name="delete_contacts_button">Delete contacts</string>
+    <string name="back_button">Back</string>
+    <string name="name_text_view">Name</string>
+    <string name="phone_text_view">Phone</string>
+    <string name="contacts_text_view">Your personal contacts</string>
+</resources>
